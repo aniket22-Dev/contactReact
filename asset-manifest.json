@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://aniket22-dev.github.io/contactReact/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "https://aniket22-dev.github.io/contactReact/static/js/main.beecdb0e.chunk.js",
+    "main.js.map": "https://aniket22-dev.github.io/contactReact/static/js/main.beecdb0e.chunk.js.map",
+    "runtime-main.js": "https://aniket22-dev.github.io/contactReact/static/js/runtime-main.f8209feb.js",
+    "runtime-main.js.map": "https://aniket22-dev.github.io/contactReact/static/js/runtime-main.f8209feb.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "https://aniket22-dev.github.io/contactReact/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.18590215.chunk.js": "https://aniket22-dev.github.io/contactReact/static/js/2.18590215.chunk.js",
+    "static/js/2.18590215.chunk.js.map": "https://aniket22-dev.github.io/contactReact/static/js/2.18590215.chunk.js.map",
+    "static/js/3.8c1e7206.chunk.js": "https://aniket22-dev.github.io/contactReact/static/js/3.8c1e7206.chunk.js",
+    "static/js/3.8c1e7206.chunk.js.map": "https://aniket22-dev.github.io/contactReact/static/js/3.8c1e7206.chunk.js.map",
+    "index.html": "https://aniket22-dev.github.io/contactReact/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "https://aniket22-dev.github.io/contactReact/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "https://aniket22-dev.github.io/contactReact/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.18590215.chunk.js.LICENSE.txt": "https://aniket22-dev.github.io/contactReact/static/js/2.18590215.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8209feb.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.18590215.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.beecdb0e.chunk.js"
+  ]
+}
